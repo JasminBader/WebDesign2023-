@@ -1,0 +1,135 @@
+html{
+	font-family: serif;
+	}
+
+body{
+	margin-right: auto;
+	margin-left: 25px;
+	margin-width: 700px;
+	background-color:#F5F5DC;
+	color:#2F4F4F;
+	}
+
+h1{
+	text-align:center;
+	align-items: center;
+	margin-top:25px;
+	border-top:none;
+	border-bottom:none;
+	border-width:thin;
+	border-color:#458B74;
+	}
+
+h3 a{
+    color:#2F4F4F;
+	}
+
+div{
+	margin-top:70px;
+	}
+
+
+p{
+	font-size:16px;
+	padding:0 100px;
+	line-height:1.8;
+	}
+
+
+ul	{
+	display: flex;
+	list-style-type: none;
+	}
+	
+	
+ul li{
+	font-family:italic;
+	font-size:30px;
+	font-weight:bold;
+	color:#458B74;
+
+	display: flex;
+	flex: auto;
+	flex-direction: column;
+	justify-content: center;
+	text-align:center;
+	}	
+
+a	{
+	color:#458B74;
+	text-decoration:none;
+	}
+
+a:hover {
+	color:#2F4F4F;}
+}
+
+h3 a:hover {
+	color:#458B74;}
+
+
+
+a:hover img {
+	opacity: 31;
+	mix-blend-mode: multiply;
+}
+
+
+td img {
+	display: block;
+	text-align: left;
+}
+	
+	
+#footer p{
+	font-size:10px;
+	padding:;
+	margin:0;
+	}
+	
+
+
+h1 a { font-size:100px;}
+
+h3 a {align-items: center;}
+
+div p:hover {
+	color:#2F4F4F;}
+
+ul li h3  a:hover {
+	color:#458B74;}
+
+tbody img {max-width: 100%;}
+
+
+
+
+CALENDARIO PRENOTAZIONE
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #458B74;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color:#458B74;
+}
+
+.available {
+  background-color: white;
+  color: green;
+}
+
+.unavailable {
+  background-color:#458B74;
+}
+
+.available {
+  color: green;
+}
+FINE CALENDARIO PRENOTAZIONE
